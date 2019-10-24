@@ -1,0 +1,44 @@
+*{box-sizing : border-box;
+}
+html{
+	height:100%;
+	width:100%;
+}
+body{
+	text-align:center;
+	margin: 0px;
+	font-family: 'Special Elite', cursive;
+	height:100%;
+}
+#leftside{
+	height:100%;
+	background-color:gold;
+	width: 50%;
+	float:left;
+
+}
+#rightside{
+	height: 100%;
+	background-color:teal;
+	width: 50%;
+	float:right;
+}
+.lefttxt{
+	border: 3px solid DarkSlateGray;
+	display: inline-block;
+	padding: 1em;
+	margin-top: 7em;
+	color: DarkSlateGray;
+}
+
+.righttxt{
+	border: 3px solid white;
+	display: inline-block;
+	padding: 1em;	
+	margin-top: 7em;
+	color:white;	
+}
+
+a:visited{
+	color:
+}
